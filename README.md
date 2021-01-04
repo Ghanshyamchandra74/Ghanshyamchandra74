@@ -12,7 +12,7 @@
 
 ---
 
-<img align="left" alt="junghans' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ghanshyamchandra74&show_icons=true&hide_border=true" />
+
 
 [website]: https://ghanshyamchandra74.github.io/
 
