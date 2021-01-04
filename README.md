@@ -15,3 +15,14 @@
 <img align="left" alt="junghans' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ghanshyamchandra74&show_icons=true&hide_border=true" />
 
 [website]: https://ghanshyamchandra74.github.io/
+
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
